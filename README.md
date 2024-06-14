@@ -4,7 +4,7 @@
 
 ### Copy that repo using
 ```
-$ git clone
+$ git clone https://github.com/Axmetik/Inforce-backend-task.git
 ```
 
 ### To start application use
