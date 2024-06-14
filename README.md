@@ -1,7 +1,5 @@
 # Inforce-backend-task
 
-## Installation
-
 ### Copy that repo using
 ```
 $ git clone https://github.com/Axmetik/Inforce-backend-task.git
