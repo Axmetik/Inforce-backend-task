@@ -2,11 +2,10 @@
 
 ## Installation
 
-````copy that repo using
+### copy that repo using
 $ git clone
-````
 
-````To start application use
+### To start application use
 $ npm install
 $ npm run start
-````
+
